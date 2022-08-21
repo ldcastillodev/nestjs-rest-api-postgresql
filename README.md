@@ -1,5 +1,5 @@
 
-# backend-app-reign
+# nestjs-rest-api-postgresql
 
 API that allows you to create a feed of articles, get a paginated(limit is by default 5, page) feed of articles filtering by title, author, tag or storyTitle,
 get an article by id, delete all articles at once or delete one by id,
